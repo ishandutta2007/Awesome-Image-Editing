@@ -1,48 +1,54 @@
-# Awesome-Image-Editing
+<div align="center">
 
-## Top Image Editing Ecosystem
+<img src="./assets/banner.svg" alt="Awesome Image Editing Banner" width="100%" />
 
+# 🎨 Awesome Image Editing
 
+### Curated Directory of SaaS Solutions, AI Retouching Engines & Open-Source Image Editing Ecosystems
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<p align="center">
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Image-Editing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Image-Editing?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Image-Editing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Image-Editing?style=social" alt="GitHub Forks" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Image-Editing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Image-Editing/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Image-Editing?style=flat-square" alt="Last Commit" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-*Focused on Raster Manipulation, Photo Retouching & Self-Hosted Creative Workflows*  
+<p align="center">
+  <b>Discover top raster manipulation software, photo editors, digital painting suites, RAW developers, and AI-powered upscaling tools.</b><br>
+  <i>Whether you need a cloud-hosted SaaS platform or a 100% free, self-hosted open-source Photoshop alternative.</i>
+</p>
 
-**Last updated: October 2026**
+</div>
 
+---
 
+## 📑 Table of Contents
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Image Editing**. These tools enable photographers, designers, and artists to manipulate raster images—retouching photos, compositing layers, applying filters, and preparing assets for print or web—ranging from full professional suites to lightweight browser-based editors.
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+  - [⭐ Top Open-Source Projects (Ranked by Stars)](#-top-open-source-projects-ranked-by-stars)
+  - [🛠️ Additional Open-Source Options & Frameworks](#️-additional-open-source-options--frameworks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsoring](#-support--sponsoring)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
+---
 
+## 📊 Sector Overview & Market Dynamics
 
-**Examples** include Adobe Photoshop, Affinity Photo, Canva, Photopea, GIMP, Krita, and Pinta (the category leaders).
+The global photo editing and digital image software market was valued at approximately **$1.15B to $1.2B in 2024** (surpassing **$14B+** when encompassing wider digital media suites, generative AI graphics, and creator platforms) with an expected compound annual growth rate (**CAGR of 8–10%**) projected through 2030.
 
+The industry showcases a **highly concentrated, "winner-take-most" dynamic** in professional enterprise creative studios anchored by Adobe's suite lock-in. Concurrently, it displays **moderate fragmentation** across prosumer, browser-based, mobile, and social media creative workflows led by Canva, with rapidly growing demand for privacy-first, non-subscription, and open-source alternatives.
 
+---
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, avoiding subscription lock-in, and transparent image manipulation—ideal for photographers leaving Adobe's subscription model, designers wanting native Linux workflows, and anyone who believes creative tools should not require a monthly fee. The open-source landscape is anchored by **GIMP** (the veteran powerhouse with GIMP 3.0's non-destructive editing and new file format support), **Krita** (the artist's painting engine), and **PhotoGIMP** (a UI patch that makes GIMP feel like Photoshop), with **Pinta** serving beginners and **PhotoDemon** offering a portable Windows alternative.
+## ☁️ SaaS/Hosted Platforms
 
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saashosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global photo editing software market was valued at approximately $1.15B to $1.2B in 2024 (projected between $1.2B and $14B+ depending on inclusion of broader digital content and generative creation suites) and is forecast to expand at an 8–10% CAGR through 2030. The industry displays a highly concentrated, winner-take-most dynamic in the professional and enterprise creative tier dominated by Adobe, while showing moderate fragmentation across prosumer, browser-based, and mobile casual content creation segments led by Canva and various niche innovators.
-
-## SaaS/Hosted Platforms
-
-| Product | Company Valuation / Revenue | Starting Tier Pricing | Free Tier Limits / Free Trial | Description |
+| 🚀 Product | 🏢 Company Valuation / Revenue | 💳 Starting Tier Pricing | 🎁 Free Tier Limits / Free Trial | 📝 Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)** | ~$146.5B Market Cap / $23.8B Revenue (Adobe FY25) | $22.99/mo (annual commitment) or $19.99/mo (Photography plan) | 7-day free trial with full feature access (requires payment info; auto-renews unless canceled) | Industry standard for professional raster image editing, layer compositing, and generative AI features. |
 | **[Canva](https://www.canva.com/)** | $42B Valuation / ~$3.5B ARR (2025) | $15.00/mo or $120.00/yr ($10/mo billed annually) for Canva Pro | Free-for-life tier with 5 GB storage, ~1.6M templates; limited to basic exports (no background remover, magic resize, or transparent PNGs) | Browser-based design and visual communication platform with drag-and-drop templates and AI tools. |
@@ -51,96 +57,102 @@ The global photo editing software market was valued at approximately $1.15B to $
 | **[Pixlr](https://pixlr.com/)** | ~$9.1M Revenue (Subsidiary of Inmagine Group) | $1.99/mo (Plus Plan, billed annually at $23.88/yr) or $2.49/mo | Free-for-life tier with ad-supported interface, limited to ~3 saves per day and 20 starter AI credits | Browser-based photo editor providing quick raster manipulation, templates, and lightweight AI utilities. |
 | **[Photopea](https://www.photopea.com/)** | Bootstrapped solo venture / ~$2M+ Annual Revenue | $5.00/mo (Single User Premium) or $15.00/quarter | Free-for-life tier with full tool access and no watermarks; includes sidebar ads and 0.5 GB PeaDrive cloud storage limit | Web-based Photoshop clone offering deep PSD/PSB compatibility, full layer controls, and zero software installation. |
 
-## Open-Source GitHub Projects
+---
 
+## 💻 Open-Source GitHub Projects
 
+### ⭐ Top Open-Source Projects (Ranked by Stars)
 
-- **[GIMP](https://github.com/GNOME/gimp)**  
+Every major active open-source project for self-hosting, avoiding subscription lock-in, and transparent image manipulation. Sorted descending by GitHub star count:
 
-  **The veteran open-source image editor.** **GIMP 3.0** (released March 2025) is the biggest update in years: **non-destructive editing** for most filters, improved PSD export with layer and metadata preservation, support for JPEG XL, ICNS, and BC7 DDS formats, better text tools with non-destructive outlines, and multi-layer selection . **Trade-offs**: the UI remains idiosyncratic and requires relearning if you're coming from Photoshop; some workflows (like adjustment layers) still lag behind commercial tools. Best for users who want a full-featured editor without subscriptions and are willing to invest time in learning its way of working.
+1. **[Upscayl](https://github.com/upscayl/upscayl)** [![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers)  
+   **The #1 AI Image Upscaler.** Free and open-source desktop application (Linux, macOS, Windows) powered by neural networks. Upscales, sharpens, and restores low-resolution images locally on your GPU without cloud subscriptions or privacy leaks.
 
+2. **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** [![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social&color=white)](https://github.com/invoke-ai/InvokeAI/stargazers)  
+   **The creative engine for AI image generation and editing.** Features an industry-leading visual canvas UI with unified layers, inpainting, outpainting, sketch-to-image, and generative fill designed specifically for digital artists and creative studios.
 
+3. **[Graphite](https://github.com/GraphiteEditor/Graphite)** [![GitHub stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers)  
+   **Procedural 2D graphics and image editor.** Modern in-browser/desktop application combining raster image editing, digital painting, and vector graphics through an entirely non-destructive node graph engine written in Rust.
 
-- **[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)**  
+4. **[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)** [![GitHub stars](https://img.shields.io/github/stars/Diolinux/PhotoGIMP?style=social&color=white)](https://github.com/Diolinux/PhotoGIMP/stargazers)  
+   **The Photoshop-to-GIMP bridge.** A complete patch for GIMP that reconstructs the UI to match Photoshop's workspace, tool placements, dark theme, and standard keyboard shortcuts (Ctrl+T, Ctrl+D). Eliminates muscle memory friction for transitioning Photoshop users.
 
-  **The Photoshop-to-GIMP bridge.** A patch (not a fork) that transforms GIMP's interface into a Photoshop-like layout: single-column toolbar on the left, tool options and layers on the right, **Photoshop keyboard shortcuts** (Ctrl+T to transform, Ctrl+D to deselect), and a dark theme with simplified icons . **Requires GIMP 3.0+** and that you run GIMP once before applying the patch. **Caveat**: GIMP updates may overwrite the patch, requiring reapplication . Best for Photoshop users who want to try GIMP without fighting muscle memory—it's the single most effective on-ramp to open-source image editing.
+5. **[darktable](https://github.com/darktable-org/darktable)** [![GitHub stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers)  
+   **The open-source Lightroom replacement.** Powerful photography workflow manager and non-destructive virtual lighttable and darkroom for RAW image processing, color management, and tone curve corrections.
 
+6. **[Krita](https://github.com/KDE/krita)** [![GitHub stars](https://img.shields.io/github/stars/KDE/krita)?style=social&color=white](https://github.com/KDE/krita/stargazers)  
+   **The digital painting powerhouse.** Complete creative studio offering state-of-the-art brush engines, layered editing, non-destructive masks, vector text, color wheel controls, and an animation timeline built by the KDE community.
 
+7. **[GIMP](https://github.com/GNOME/gimp)** [![GitHub stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)  
+   **The veteran GNU Image Manipulation Program.** The cornerstone of open-source raster graphics. GIMP 3.0 delivers non-destructive filter editing, multi-layer selection, native color management, and support for modern formats like JPEG XL and WebP.
 
-- **[Krita](https://github.com/KDE/krita)**  
+8. **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** [![GitHub stars](https://img.shields.io/github/stars/chaiNNer-org/chaiNNer?style=social&color=white)](https://github.com/chaiNNer-org/chaiNNer/stargazers)  
+   **Node-based programmatic image processing pipeline.** Highly customizable GUI for chaining batch image tasks, running neural network transformations, alpha channel handling, color space conversions, and image upscaling algorithms.
 
-  **The artist's editor.** A powerful digital painting application with a serious brush engine, layered editing, masks, vector tools, and animation timeline . **Not a Photoshop replacement for photo retouching**—Krita is built for drawing and painting from scratch. Best for illustrators, concept artists, and anyone whose work leans more artistic than photographic.
+9. **[RawTherapee](https://github.com/Beep6581/RawTherapee)** [![GitHub stars](https://img.shields.io/github/stars/Beep6581/RawTherapee?style=social&color=white)](https://github.com/Beep6581/RawTherapee/stargazers)  
+   **Advanced RAW photo developer.** Cross-platform 32-bit floating-point processing engine designed for high-fidelity photo developing with demosaicing algorithms, advanced sharpening, tone curves, and lens correction profiles.
 
+10. **[Pinta](https://github.com/PintaProject/Pinta)** [![GitHub stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers)  
+    **Lightweight, accessible image editor.** Simple yet capable GTK-based paint and image manipulation tool modeled after Paint.NET. Supports layers, undo history, drawing tools, and essential visual effects.
 
+11. **[PhotoDemon](https://github.com/tannerhelland/PhotoDemon)** [![GitHub stars](https://img.shields.io/github/stars/tannerhelland/PhotoDemon?style=social&color=white)](https://github.com/tannerhelland/PhotoDemon/stargazers)  
+    **Portable professional photo editor for Windows.** 100% portable with zero install requirements, featuring multi-layer editing, advanced masks, batch processing, and industry-leading PSD file support.
 
-- **[Pinta](https://github.com/PintaProject/Pinta)**  
+12. **[Scribus](https://github.com/scribusproject/scribus)** [![GitHub stars](https://img.shields.io/github/stars/scribusproject/scribus?style=social&color=white)](https://github.com/scribusproject/scribus/stargazers)  
+    **Open-source desktop publishing suite.** Built for professional print layout and page design (brochures, magazines, newsletters) with CMYK separation, ICC color management, and PDF/X-1a prepress export.
 
-  **The beginner-friendly editor.** Deliberately simple: layers, selection tools, color adjustments, filters, gradients, and brushes, all laid out predictably . Originally a Paint.NET alternative for Linux/macOS. **Not suitable for professional workflows**, but perfect for everyday edits, screenshots, and basic designs. Best for users who find GIMP intimidating and just need to crop, annotate, and adjust.
-
-
-
-- **[PhotoDemon](https://github.com/tannerhelland/PhotoDemon)**  
-
-  **The portable Windows alternative.** Free, open-source, fully portable (no installation), with non-destructive layers, masks, wide color depth support, and **better PSD handling than most open-source tools including GIMP** . Batch processing and a streamlined interface. Best for Windows users who want professional-level features without installation or subscription.
-
-
-
-- **[Bitmappery](https://github.com/igorski/bitmappery)**  
-
-  **The browser-based minimal editor.** Self-hosted, web-based, non-destructive with layers, masking, filters, selections, and PSD imports . Runs on any device with a browser. Best for users who want a privacy-focused, zero-install editor for essential edits.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Graphite** — Browser-based progressive web app with hybrid vector-raster editing and a node graph for non-destructive procedural workflows. In alpha but already impressive . Best for designers wanting a modern, Affinity-like vector tool.
-
-- **Scribus** — Desktop publishing for print layouts (brochures, newsletters, magazines). Not an image editor per se, but essential for print workflows that require layout . Best for print designers needing an InDesign alternative.
-
-- **PhotoSplice** — Rust-based editor built on PhotoCraft, focused on **1:1 native PSD/PSB compatibility** and classic Photoshop (CS6) feel. GPU-optimized, no Electron . Best for users who need flawless PSD round-tripping with Photoshop.
-
-- **Frameworks for building custom systems**: Start with **GIMP + PhotoGIMP** for a Photoshop-like experience. Use **Krita** for painting and illustration. Use **Pinta** for quick edits and **PhotoDemon** for portable Windows work. For print layout, add **Scribus**. For PSD compatibility without Adobe, evaluate **PhotoSplice**.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- **PhotoGIMP is a patch, not a separate application**: it modifies GIMP's configuration files and requires GIMP 3.0+. Updates to GIMP may overwrite the patch, requiring reinstallation .
-
-- **GIMP 3.0 is a major release**: some third-party plugins and scripts written for GIMP 2.10 may not work without updates. Verify plugin compatibility before migrating critical workflows .
-
-- **"Photoshop clone" claims vary**: Photopea is genuinely browser-based with PSD support; PhotoCraft/ArtCraft is an early-stage AI-assisted reverse-engineering project with subscription-gated AI features . Evaluate maturity before relying on any tool for production work.
-
-
+13. **[Bitmappery](https://github.com/igorski/bitmappery)** [![GitHub stars](https://img.shields.io/github/stars/igorski/bitmappery?style=social&color=white)](https://github.com/igorski/bitmappery/stargazers)  
+    **Minimalist browser-based raster canvas.** Self-hostable web editor featuring layers, selection masks, procedural filters, sprite sheet editing tools, and direct PSD import/export.
 
 ---
 
+### 🛠️ Additional Open-Source Options & Frameworks
 
+- **PhotoSplice** — High-performance Rust-powered image editor optimized for 1:1 Photoshop CS6 compatibility, PSD/PSB round-tripping, and GPU acceleration without Electron.
+- **ImageMagick** — The ubiquitous CLI swiss army knife for programmatic image manipulation, batch resizing, format conversions, and pipeline scripting.
+- **libvips** — Extremely fast, low-memory demand image processing library ideal for high-throughput automated web resizing and processing workflows.
 
-**Made for photographers, designers, artists, and anyone who believes creative tools should not require a subscription.**  
+---
 
-Let's make image editing more open, accessible, and Photoshop-familiar.
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help make this the most comprehensive guide to creative image editing:
+
+1. 🍴 **Fork** this repository.
+2. 🌿 Create a feature branch: `git checkout -b add/my-awesome-editor`
+3. ✏️ Add or update entries in `README.md` following the existing format.
+4. 🚀 Submit a **Pull Request** with a brief overview of why the tool deserves inclusion.
+
+---
+
+## 💖 Support & Sponsoring
+
+If you found this curated list helpful for your creative workflow or development pipeline, please consider showing your support:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and share** the repo with photographers, designers, and developer communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing maintenance and new open-source initiatives, visit the [**GitHub Sponsors Dashboard**](https://github.com/sponsors/ishandutta2007).
+
+Your backing keeps this project actively updated and independent! ✨
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Image-Editing&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Image-Editing&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated guide** intended for informational and educational purposes.
+- **PhotoGIMP** is a configuration and asset patch for GIMP rather than an independent software build.
+- **GIMP 3.0** brings substantial API modernizations; verify legacy script and third-party plugin compatibility before production migrations.
+- Always review licensing agreements and data policies when utilizing cloud AI features in commercial projects.
+
+---
+
+<div align="center">
+  <b>Built with ❤️ for photographers, designers, artists, and advocates of open creative tools.</b><br>
+  <sub>Let's make image editing more accessible, independent, and Photoshop-familiar.</sub>
+</div>
