@@ -30,55 +30,26 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global photo editing software market was valued at approximately $1.15B to $1.2B in 2024 (projected between $1.2B and $14B+ depending on inclusion of broader digital content and generative creation suites) and is forecast to expand at an 8–10% CAGR through 2030. The industry displays a highly concentrated, winner-take-most dynamic in the professional and enterprise creative tier dominated by Adobe, while showing moderate fragmentation across prosumer, browser-based, and mobile casual content creation segments led by Canva and various niche innovators.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)**  
-
-  The industry standard for raster image editing. Generative Fill, neural filters, and comprehensive brush/selection engines. **Subscription-only**: ~$23/month for Photoshop alone . Proprietary, cloud-tied licensing.
-
-
-
-- **[Affinity Photo](https://affinity.serif.com/photo/)**  
-
-  Professional-grade photo editor with a one-time purchase model (no subscription). Strong RAW processing, focus stacking, and HDR merge. **Note**: Affinity has shifted toward a free model for some tiers; verify current licensing on the official site . Proprietary.
-
-
-
-- **[Canva](https://www.canva.com/)**  
-
-  Browser-based design platform with drag-and-drop templates, AI tools, and basic photo editing. Free tier with premium assets; Pro subscription for advanced features. Best for social media content and non-professional design workflows.
-
-
-
-- **[Photopea](https://www.photopea.com/)**  
-
-  **Browser-based Photoshop clone** with remarkable PSD compatibility. Free tier is ad-supported; premium removes ads. Runs entirely in the browser—no installation. Best for quick edits on machines without software installed, or for opening PSD files without Photoshop.
-
-
-
-- **[Pixlr](https://pixlr.com/)**  
-
-  Browser-based photo editor with AI-powered tools. Free tier with limited features; premium unlocks advanced tools. Best for quick, casual edits.
-
-
-
-- **[Luminar Neo](https://skylum.com/luminar)**  
-
-  AI-focused photo editor with sky replacement, relighting, and portrait enhancement. One-time purchase or subscription. Best for photographers who want creative AI transformations rather than manual retouching .
-
-
+| Product | Company Valuation / Revenue | Starting Tier Pricing | Free Tier Limits / Free Trial | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Adobe Photoshop](https://www.adobe.com/products/photoshop.html)** | ~$146.5B Market Cap / $23.8B Revenue (Adobe FY25) | $22.99/mo (annual commitment) or $19.99/mo (Photography plan) | 7-day free trial with full feature access (requires payment info; auto-renews unless canceled) | Industry standard for professional raster image editing, layer compositing, and generative AI features. |
+| **[Canva](https://www.canva.com/)** | $42B Valuation / ~$3.5B ARR (2025) | $15.00/mo or $120.00/yr ($10/mo billed annually) for Canva Pro | Free-for-life tier with 5 GB storage, ~1.6M templates; limited to basic exports (no background remover, magic resize, or transparent PNGs) | Browser-based design and visual communication platform with drag-and-drop templates and AI tools. |
+| **[Affinity Photo](https://affinity.serif.com/photo/)** | ~$380M Acquisition by Canva (2024) | Free core suite (Canva Pro from $15/mo for integrated AI features) | Free-for-life core application access via free Canva account login; optional paid Canva subscription for cloud AI features | Professional raster editing, RAW development, and layered compositing suite without subscription fees for core tools. |
+| **[Skylum Luminar Neo](https://skylum.com/luminar)** | ~$55M–$60M Implied Valuation / ~$18M ARR | $9.95/mo (billed annually at $119/yr) or $14.95/mo monthly | 7-day free trial covering core application and AI tools (watermark/resolution restrictions may apply to exports) | AI-centric photo editor featuring generative tools, sky replacement, relighting, and portrait enhancement. |
+| **[Pixlr](https://pixlr.com/)** | ~$9.1M Revenue (Subsidiary of Inmagine Group) | $1.99/mo (Plus Plan, billed annually at $23.88/yr) or $2.49/mo | Free-for-life tier with ad-supported interface, limited to ~3 saves per day and 20 starter AI credits | Browser-based photo editor providing quick raster manipulation, templates, and lightweight AI utilities. |
+| **[Photopea](https://www.photopea.com/)** | Bootstrapped solo venture / ~$2M+ Annual Revenue | $5.00/mo (Single User Premium) or $15.00/quarter | Free-for-life tier with full tool access and no watermarks; includes sidebar ads and 0.5 GB PeaDrive cloud storage limit | Web-based Photoshop clone offering deep PSD/PSB compatibility, full layer controls, and zero software installation. |
 
 ## Open-Source GitHub Projects
 
