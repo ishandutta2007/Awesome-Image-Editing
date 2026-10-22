@@ -63,7 +63,7 @@ The industry showcases a **highly concentrated, "winner-take-most" dynamic** in 
 
 ### ⭐ Top Open-Source Projects (Ranked by Stars)
 
-Every major active open-source project for self-hosting, avoiding subscription lock-in, and transparent image manipulation. Sorted descending by GitHub Stars_Count:
+Every major active open-source project for self-hosting, avoiding subscription lock-in, and transparent image manipulation. Sorted descending by GitHub_Stars_Count:
 
 1. **[Upscayl](https://github.com/upscayl/upscayl)** [![GitHub_Stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers)  
    **The #1 AI Image Upscaler.** Free and open-source desktop application (Linux, macOS, Windows) powered by neural networks. Upscales, sharpens, and restores low-resolution images locally on your GPU without cloud subscriptions or privacy leaks.
