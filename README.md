@@ -8,7 +8,7 @@
 
 <p align="center">
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Image-Editing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Image-Editing?style=social" alt="GitHub Stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Image-Editing/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Image-Editing?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Image-Editing/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Image-Editing?style=social" alt="GitHub Forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Image-Editing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Image-Editing/commits/main"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Image-Editing?style=flat-square" alt="Last Commit" /></a>
@@ -63,45 +63,45 @@ The industry showcases a **highly concentrated, "winner-take-most" dynamic** in 
 
 ### ⭐ Top Open-Source Projects (Ranked by Stars)
 
-Every major active open-source project for self-hosting, avoiding subscription lock-in, and transparent image manipulation. Sorted descending by GitHub star count:
+Every major active open-source project for self-hosting, avoiding subscription lock-in, and transparent image manipulation. Sorted descending by GitHub Stars_Count:
 
-1. **[Upscayl](https://github.com/upscayl/upscayl)** [![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers)  
+1. **[Upscayl](https://github.com/upscayl/upscayl)** [![GitHub_Stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers)  
    **The #1 AI Image Upscaler.** Free and open-source desktop application (Linux, macOS, Windows) powered by neural networks. Upscales, sharpens, and restores low-resolution images locally on your GPU without cloud subscriptions or privacy leaks.
 
-2. **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** [![GitHub stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social&color=white)](https://github.com/invoke-ai/InvokeAI/stargazers)  
+2. **[InvokeAI](https://github.com/invoke-ai/InvokeAI)** [![GitHub_Stars](https://img.shields.io/github/stars/invoke-ai/InvokeAI?style=social&color=white)](https://github.com/invoke-ai/InvokeAI/stargazers)  
    **The creative engine for AI image generation and editing.** Features an industry-leading visual canvas UI with unified layers, inpainting, outpainting, sketch-to-image, and generative fill designed specifically for digital artists and creative studios.
 
-3. **[Graphite](https://github.com/GraphiteEditor/Graphite)** [![GitHub stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers)  
+3. **[Graphite](https://github.com/GraphiteEditor/Graphite)** [![GitHub_Stars](https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social&color=white)](https://github.com/GraphiteEditor/Graphite/stargazers)  
    **Procedural 2D graphics and image editor.** Modern in-browser/desktop application combining raster image editing, digital painting, and vector graphics through an entirely non-destructive node graph engine written in Rust.
 
-4. **[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)** [![GitHub stars](https://img.shields.io/github/stars/Diolinux/PhotoGIMP?style=social&color=white)](https://github.com/Diolinux/PhotoGIMP/stargazers)  
+4. **[PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)** [![GitHub_Stars](https://img.shields.io/github/stars/Diolinux/PhotoGIMP?style=social&color=white)](https://github.com/Diolinux/PhotoGIMP/stargazers)  
    **The Photoshop-to-GIMP bridge.** A complete patch for GIMP that reconstructs the UI to match Photoshop's workspace, tool placements, dark theme, and standard keyboard shortcuts (Ctrl+T, Ctrl+D). Eliminates muscle memory friction for transitioning Photoshop users.
 
-5. **[darktable](https://github.com/darktable-org/darktable)** [![GitHub stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers)  
+5. **[darktable](https://github.com/darktable-org/darktable)** [![GitHub_Stars](https://img.shields.io/github/stars/darktable-org/darktable?style=social&color=white)](https://github.com/darktable-org/darktable/stargazers)  
    **The open-source Lightroom replacement.** Powerful photography workflow manager and non-destructive virtual lighttable and darkroom for RAW image processing, color management, and tone curve corrections.
 
-6. **[Krita](https://github.com/KDE/krita)** [![GitHub stars](https://img.shields.io/github/stars/KDE/krita)?style=social&color=white](https://github.com/KDE/krita/stargazers)  
+6. **[Krita](https://github.com/KDE/krita)** [![GitHub_Stars](https://img.shields.io/github/stars/KDE/krita)?style=social&color=white](https://github.com/KDE/krita/stargazers)  
    **The digital painting powerhouse.** Complete creative studio offering state-of-the-art brush engines, layered editing, non-destructive masks, vector text, color wheel controls, and an animation timeline built by the KDE community.
 
-7. **[GIMP](https://github.com/GNOME/gimp)** [![GitHub stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)  
+7. **[GIMP](https://github.com/GNOME/gimp)** [![GitHub_Stars](https://img.shields.io/github/stars/GNOME/gimp?style=social&color=white)](https://github.com/GNOME/gimp/stargazers)  
    **The veteran GNU Image Manipulation Program.** The cornerstone of open-source raster graphics. GIMP 3.0 delivers non-destructive filter editing, multi-layer selection, native color management, and support for modern formats like JPEG XL and WebP.
 
-8. **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** [![GitHub stars](https://img.shields.io/github/stars/chaiNNer-org/chaiNNer?style=social&color=white)](https://github.com/chaiNNer-org/chaiNNer/stargazers)  
+8. **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** [![GitHub_Stars](https://img.shields.io/github/stars/chaiNNer-org/chaiNNer?style=social&color=white)](https://github.com/chaiNNer-org/chaiNNer/stargazers)  
    **Node-based programmatic image processing pipeline.** Highly customizable GUI for chaining batch image tasks, running neural network transformations, alpha channel handling, color space conversions, and image upscaling algorithms.
 
-9. **[RawTherapee](https://github.com/Beep6581/RawTherapee)** [![GitHub stars](https://img.shields.io/github/stars/Beep6581/RawTherapee?style=social&color=white)](https://github.com/Beep6581/RawTherapee/stargazers)  
+9. **[RawTherapee](https://github.com/Beep6581/RawTherapee)** [![GitHub_Stars](https://img.shields.io/github/stars/Beep6581/RawTherapee?style=social&color=white)](https://github.com/Beep6581/RawTherapee/stargazers)  
    **Advanced RAW photo developer.** Cross-platform 32-bit floating-point processing engine designed for high-fidelity photo developing with demosaicing algorithms, advanced sharpening, tone curves, and lens correction profiles.
 
-10. **[Pinta](https://github.com/PintaProject/Pinta)** [![GitHub stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers)  
+10. **[Pinta](https://github.com/PintaProject/Pinta)** [![GitHub_Stars](https://img.shields.io/github/stars/PintaProject/Pinta?style=social&color=white)](https://github.com/PintaProject/Pinta/stargazers)  
     **Lightweight, accessible image editor.** Simple yet capable GTK-based paint and image manipulation tool modeled after Paint.NET. Supports layers, undo history, drawing tools, and essential visual effects.
 
-11. **[PhotoDemon](https://github.com/tannerhelland/PhotoDemon)** [![GitHub stars](https://img.shields.io/github/stars/tannerhelland/PhotoDemon?style=social&color=white)](https://github.com/tannerhelland/PhotoDemon/stargazers)  
+11. **[PhotoDemon](https://github.com/tannerhelland/PhotoDemon)** [![GitHub_Stars](https://img.shields.io/github/stars/tannerhelland/PhotoDemon?style=social&color=white)](https://github.com/tannerhelland/PhotoDemon/stargazers)  
     **Portable professional photo editor for Windows.** 100% portable with zero install requirements, featuring multi-layer editing, advanced masks, batch processing, and industry-leading PSD file support.
 
-12. **[Scribus](https://github.com/scribusproject/scribus)** [![GitHub stars](https://img.shields.io/github/stars/scribusproject/scribus?style=social&color=white)](https://github.com/scribusproject/scribus/stargazers)  
+12. **[Scribus](https://github.com/scribusproject/scribus)** [![GitHub_Stars](https://img.shields.io/github/stars/scribusproject/scribus?style=social&color=white)](https://github.com/scribusproject/scribus/stargazers)  
     **Open-source desktop publishing suite.** Built for professional print layout and page design (brochures, magazines, newsletters) with CMYK separation, ICC color management, and PDF/X-1a prepress export.
 
-13. **[Bitmappery](https://github.com/igorski/bitmappery)** [![GitHub stars](https://img.shields.io/github/stars/igorski/bitmappery?style=social&color=white)](https://github.com/igorski/bitmappery/stargazers)  
+13. **[Bitmappery](https://github.com/igorski/bitmappery)** [![GitHub_Stars](https://img.shields.io/github/stars/igorski/bitmappery?style=social&color=white)](https://github.com/igorski/bitmappery/stargazers)  
     **Minimalist browser-based raster canvas.** Self-hostable web editor featuring layers, selection masks, procedural filters, sprite sheet editing tools, and direct PSD import/export.
 
 ---
